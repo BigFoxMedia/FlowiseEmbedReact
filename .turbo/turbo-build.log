@@ -1,0 +1,7 @@
+
+> flowise-embed-react@1.0.2 build /home/panda/projects/mynerds/flows/packages/react-sdk
+> rollup --config rollup.config.js
+
+[36m
+[1m./src/index.ts[22m → [1m./dist/index.js[22m...[39m
+[32mcreated [1m./dist/index.js[22m in [1m4s[22m[39m
