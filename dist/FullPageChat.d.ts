@@ -13,6 +13,6 @@ declare global {
         }
     }
 }
-export declare const FullPageChat: ({ style, className, ...assignableProps }: Props) => JSX.Element;
+export declare const FullPageChat: ({ style, className, ...assignableProps }: Props) => import("react/jsx-runtime").JSX.Element;
 export {};
 //# sourceMappingURL=FullPageChat.d.ts.map

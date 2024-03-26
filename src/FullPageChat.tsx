@@ -34,7 +34,6 @@ export const FullPageChat = ({ style, className, ...assignableProps }: Props) =>
 
     return (
         <>
-						test-react-D
             <flowise-fullchatbot ref={ref} style={style} class={className} />
         </>
     )
