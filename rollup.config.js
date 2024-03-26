@@ -13,6 +13,10 @@ const indexConfig = {
         format: 'es',
         inlineDynamicImports: true
     },
+		/* watch: {
+			include: 'src/**',
+			exclude: 'node_modules/**'
+		}, */
     external: ['react', 'react/jsx-runtime', 'flowise-embed'],
     plugins: [
         resolve({ extensions }),
